@@ -1,0 +1,56 @@
+﻿body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Set padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    /*max-width: 280px;*/
+}
+
+
+/* Styling the Calendar*/
+
+#calendar {
+    background-color: rgba(34,34,34,.45);
+    padding: 45px;
+    border-radius: 20px;
+    border-color: black;
+    color: white;
+    margin-top: 45px;
+}
+
+.fc-day-header {
+    background-color: #22223b;
+}
+
+.fc-axis.fc-widget-header {
+    background-color: #4A4E69;
+}
+
+.fc-axis.fc-widget-content {
+    background-color: #9a8c98;
+}
+
+.fc-widget-content {
+    background-color: #bcbcbc;
+}
+
+.fc-day.fc-today.fc-state-highlight {
+    background-color: #c9ada7;
+}
+
+.fc-day-number {
+    color: black;
+}
+
+/* End of Styling the Calendar*/
+
