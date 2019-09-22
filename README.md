@@ -22,7 +22,7 @@ EB-4809-AddEventsCalendar My Favorite MVC C# Story
 
 
 
-# Django-Python-Web-Application
+# .NET-MVC-C-Web-Application
 Work done with Prosper IT Consulting Dev Ops Team
 
 
