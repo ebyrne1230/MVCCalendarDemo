@@ -17,3 +17,81 @@ For the final back-end focused sprint I worked on a single story that was worth 
 Title:
 
 EB-4809-AddEventsCalendar My Favorite MVC C# Story
+
+
+
+
+
+# Django-Python-Web-Application
+Work done with Prosper IT Consulting Dev Ops Team
+
+
+# Live Project
+
+## Introduction
+
+I took part in a non-paid internship with Prosper IT Consulting working as a software developer as part of a Dev Ops team that worked on building a web application that would perform as a possible intranet for a Portland based construction company.  The project was in an early phase.
+
+This project leveraged the power of .NET frameworks and MVC.  The main programming language used was C# in addition to the front-end languages.
+
+Below is the description of a challenging story I helped work on in an AGILE environment along with code snippets and navigation links. 
+
+
+*Jump to: [End To End Story](#end-to-end-story), [Other Skills](#other-skills), [Page Top](#live-project)*
+
+
+
+
+## End To End Story
+* [AddEventsCalendar](#addeventscalendar)
+
+
+
+### AddEventsCalendar
+
+Story Decription: We need a way for employees to schedule days off of work.  This is different than the main schedule.  Please review suggested tutorials.  
+This is a big story please have everything saved to the new model that you will create for this story.
+
+Before Snippet
+Include photo reference link
+
+After Snippet
+Photo reference link
+
+
+*Jump to: [Back End Stories](#back-end-stories), [Front End Stories](#front-end-stories), [Other Skills](#other-skills), [Page Top](#live-project)*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
